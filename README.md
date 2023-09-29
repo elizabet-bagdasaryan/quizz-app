@@ -18,6 +18,6 @@ This quiz app written in Expo React Native lets you choose _Number of questions,
 3. Start the application: `npm start`
 4. Install the [Expo Go](https://expo.dev/client) app if you do not want to connect using simulators
 
-<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/5522a241-d870-440f-9060-0ab37f9fb425" width="300">
-<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/0cde9ba0-1e3e-4125-880a-5e66db771977" width="300">
-<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/3c1e43ed-4509-4815-9751-746624213bfc" width="300">
+<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/5522a241-d870-440f-9060-0ab37f9fb425" width="200">
+<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/0cde9ba0-1e3e-4125-880a-5e66db771977" width="200">
+<img src="https://github.com/elizabet-bagdasaryan/quizz-app/assets/78619349/3c1e43ed-4509-4815-9751-746624213bfc" width="200">
